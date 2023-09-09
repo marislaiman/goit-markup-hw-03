@@ -145,7 +145,7 @@ img {
   padding: 120px 0;
 }
 
-.visual-hidden {
+.visually-hidden {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -238,7 +238,7 @@ img {
   row-gap: 48px;
 }
 
-.our-portfolio-list .our-portfolio-elements {
+.our-portfolio-elements {
   width: calc((100% - 48px) / 3);
 }
 
@@ -257,7 +257,7 @@ img {
   padding: 100px 0;
 }
 
-.page-footer .logo {
+.page-footer a {
   display: inline-block;
   margin-bottom: 16px;
 }
