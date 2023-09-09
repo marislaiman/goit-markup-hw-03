@@ -146,8 +146,7 @@ img {
 }
 
 .visually-hidden {
-  position: fixed;
-  transform: scale(0);
+  visibility: hidden;
 }
 
 .studio-list {
@@ -231,7 +230,7 @@ img {
   row-gap: 48px;
 }
 
-.our-portfolio-list .our-portfolio-elements {
+.our-portfolio-list li {
   width: calc((100% - 48px) / 3);
 }
 
