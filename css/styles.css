@@ -230,7 +230,7 @@ img {
   row-gap: 48px;
 }
 
-.our-portfolio-list li {
+.our-portfolio-elements {
   width: calc((100% - 48px) / 3);
 }
 
@@ -249,7 +249,7 @@ img {
   padding: 100px 0;
 }
 
-.page-footer a {
+.page-footer-logo-link {
   display: inline-block;
   margin-bottom: 16px;
 }
