@@ -265,6 +265,7 @@ img {
 
 .logo-studio-word-footer {
   color: #f4f4fd;
+  display: inline-block;
 }
 
 .text-footer {
