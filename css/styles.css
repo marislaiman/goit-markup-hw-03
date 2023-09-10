@@ -239,8 +239,8 @@ img {
   row-gap: 48px;
 }
 
-.our-portfolio-elements:first-of-type {
-  width: calc((100% - 48px) / 3);
+.our-portfolio-elements {
+  width: calc((100% - 72px) / 4);
 }
 
 .apps-info-container {
@@ -258,7 +258,14 @@ img {
   padding: 100px 0;
 }
 
-.page-footer .logo {
+.footer-logo {
+  color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
   display: inline-block;
   margin-bottom: 16px;
 }
