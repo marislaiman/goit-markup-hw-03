@@ -239,7 +239,7 @@ img {
   row-gap: 48px;
 }
 
-.our-portfolio-elements {
+.our-portfolio-elements:first-of-type {
   width: calc((100% - 48px) / 3);
 }
 
@@ -265,7 +265,6 @@ img {
 
 .logo-studio-word-footer {
   color: #f4f4fd;
-  display: inline-block;
 }
 
 .text-footer {
